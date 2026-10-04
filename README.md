@@ -101,4 +101,7 @@ configuration.
 
 Authors
 
-PrintDayon Thesis Projects
+ Developer - Mahalalil P. Villaaflores
+ Co-Reseachers: Wela Mae B. Lim
+                Bernadette A. Elorza
+                Ryan Fallore
